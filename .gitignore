@@ -1,0 +1,19 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto
+**/.quarto/
+/_site/
+/_book/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets. Never commit these.
+.Renviron
+.env
